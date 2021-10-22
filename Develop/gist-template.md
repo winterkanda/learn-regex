@@ -1,6 +1,8 @@
 # Learn About Regex! 
 
-This readme is a tutorial for character sequences in Regex code, specifically referencing to matching a Hex Value. 
+A regex, or a regular expression, is a sequence of characters that are used to search and validate types of data such as phone numbers, URLs, email addresses, etc. This readme is a tutorial for character sequences in Regex code, specifically referencing to matching a Hex Value. 
+&nbsp;
+
 ## Summary
 
 This tutorial will go over the differenct character sequences of matching a Hex Value regex code. I will be breaking down the difference components of a regular expression that is used to match Hex Values, which are usually used for color using the hexadecimal color code format. 
